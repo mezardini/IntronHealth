@@ -1,0 +1,16 @@
+.card {
+    transition: transform 0.2s;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.card-title {
+    font-weight: bold;
+    color: #003A74;
+}
+
+.card-text {
+    color: #333;
+}
